@@ -1,5 +1,14 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 This is website based on Step form with multiple pages by using Laravel9 and CodeIgnitor4.
+Laravel Installation Process..
+1 = Install brew
+Command - $brew install php
+Website - https://brew.sh/
+2 = Install and run Laravel
+Create new laravel project = $composer create-project laravel/laravel example-app
+Open particular folder name = $cd example-app
+Run in browser = $php artisan serve
+
 Output Pages..
 <img width="1440" alt="Screenshot 2022-09-09 at 12 41 31 AM" src="https://user-images.githubusercontent.com/98231260/189211743-646e7234-0d0c-47ce-8668-99276c98c7d7.png">
 <img width="1440" alt="Screenshot 2022-09-09 at 12 41 43 AM" src="https://user-images.githubusercontent.com/98231260/189211752-17a5897f-1de5-4778-9f79-2ac5bd3d23b1.png">
@@ -7,14 +16,6 @@ Output Pages..
 <img width="1440" alt="Screenshot 2022-09-09 at 12 42 17 AM" src="https://user-images.githubusercontent.com/98231260/189211760-ee70306c-6096-47e1-a9cf-15fecb376240.png">
 <img width="1440" alt="Screenshot 2022-09-09 at 12 42 42 AM" src="https://user-images.githubusercontent.com/98231260/189211765-9ac2944b-9b29-4c72-9eba-223bfe8c0de0.png">
 
-Laravel Installation Process..
-1 = Install brew
-Command - brew install php
-Website - https://brew.sh/
-2 = Install and run Laravel
-Create new laravel project = composer create-project laravel/laravel example-app
-Open particular folder name = cd example-app
-Run in browser = php artisan serve
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
