@@ -5,9 +5,9 @@ Laravel Installation Process..
 Command - $brew install php
 Website - https://brew.sh/
 2 = Install and run Laravel
-Create new laravel project = $composer create-project laravel/laravel example-app
-Open particular folder name = $cd example-app
-Run in browser = $php artisan serve
+->Create new laravel project = $composer create-project laravel/laravel example-app
+->Open particular folder name = $cd example-app
+->Run in browser = $php artisan serve
 
 Main code for this website.. 
 [FormController.pdf](https://github.com/rgdas/MultiPageStepForm/files/9530346/FormController.pdf)
